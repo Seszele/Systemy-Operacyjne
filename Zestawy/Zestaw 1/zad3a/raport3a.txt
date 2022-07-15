@@ -1,0 +1,177 @@
+Ze zmierzonych czasów możemy wywnioskować, że program skompilowany z wykorzystaniem biblioteki 
+dzielonej jest najwolniejszy. Prawdopodobnie jest to spowodowane dodatkowym czasem potrzebnym na
+załadowanie biblioteki, więc jest to stała wartość czasu nie związana z ilością argumentów.
+
+Biblioteka statyczna:
+z_u_10_male
+	realtime: 0.010000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_u_10_duze
+	realtime: 3.880000
+	usertime: 0.000000
+	systemtime: 0.020000
+z_6_duze
+	realtime: 2.310000
+	usertime: 0.000000
+	systemtime: 0.010000
+z_7_duze
+	realtime: 2.690000
+	usertime: 0.000000
+	systemtime: 0.010000
+z_9_duze
+	realtime: 3.460000
+	usertime: 0.000000
+	systemtime: 0.030000
+z_u_5_duze
+	realtime: 1.930000
+	usertime: 0.000000
+	systemtime: 0.010000
+z_10_duze
+	realtime: 3.850000
+	usertime: 0.000000
+	systemtime: 0.040000
+u_10_duze
+	realtime: 0.000000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_10_srednie
+	realtime: 0.210000
+	usertime: 0.000000
+	systemtime: 0.000000
+u_10_srednie
+	realtime: 0.000000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_5_srednie
+	realtime: 0.110000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_8_male
+	realtime: 0.010000
+	usertime: 0.000000
+	systemtime: 0.000000
+t_1000
+	realtime: 0.000000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_3_duze
+	realtime: 0.790000
+	usertime: 0.000000
+	systemtime: 0.000000
+
+	
+Biblioteka dzielona:
+z_u_10_male
+	realtime: 0.010000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_u_10_duze
+	realtime: 4.300000
+	usertime: 0.000000
+	systemtime: 0.010000
+z_6_duze
+	realtime: 2.940000
+	usertime: 0.000000
+	systemtime: 0.010000
+z_7_duze
+	realtime: 3.210000
+	usertime: 0.000000
+	systemtime: 0.020000
+z_9_duze
+	realtime: 4.160000
+	usertime: 0.000000
+	systemtime: 0.010000
+z_u_5_duze
+	realtime: 2.490000
+	usertime: 0.000000
+	systemtime: 0.010000
+z_10_duze
+	realtime: 4.450000
+	usertime: 0.000000
+	systemtime: 0.020000
+u_10_duze
+	realtime: 0.000000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_10_srednie
+	realtime: 0.220000
+	usertime: 0.000000
+	systemtime: 0.000000
+u_10_srednie
+	realtime: 0.000000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_5_srednie
+	realtime: 0.120000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_8_male
+	realtime: 0.010000
+	usertime: 0.000000
+	systemtime: 0.000000
+t_1000
+	realtime: 0.000000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_3_duze
+	realtime: 0.830000
+	usertime: 0.000000
+	systemtime: 0.000000
+Biblioteka ładowana dynamicznie:
+z_u_10_male
+	realtime: 0.020000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_u_10_duze
+	realtime: 3.890000
+	usertime: 0.000000
+	systemtime: 0.020000
+z_6_duze
+	realtime: 2.320000
+	usertime: 0.000000
+	systemtime: 0.010000
+z_7_duze
+	realtime: 2.690000
+	usertime: 0.000000
+	systemtime: 0.010000
+z_9_duze
+	realtime: 3.580000
+	usertime: 0.020000
+	systemtime: 0.000000
+z_u_5_duze
+	realtime: 2.460000
+	usertime: 0.000000
+	systemtime: 0.010000
+z_10_duze
+	realtime: 4.340000
+	usertime: 0.000000
+	systemtime: 0.020000
+u_10_duze
+	realtime: 0.000000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_10_srednie
+	realtime: 0.220000
+	usertime: 0.000000
+	systemtime: 0.000000
+u_10_srednie
+	realtime: 0.000000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_5_srednie
+	realtime: 0.120000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_8_male
+	realtime: 0.010000
+	usertime: 0.000000
+	systemtime: 0.000000
+t_1000
+	realtime: 0.000000
+	usertime: 0.000000
+	systemtime: 0.000000
+z_3_duze
+	realtime: 0.810000
+	usertime: 0.000000
+	systemtime: 0.000000
