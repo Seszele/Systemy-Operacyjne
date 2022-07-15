@@ -1,0 +1,75 @@
+Wersja sys dla plików 1KB, 4100KB, 36000KB, ze znakami dla plikow kolejno g, e i l
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+real	0m0.011s
+user	0m0.010s
+sys	0m0.000s
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.010s
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.000s
+
+real	0m0.091s
+user	0m0.081s
+sys	0m0.010s
+
+real	0m0.094s
+user	0m0.084s
+sys	0m0.009s
+
+real	0m0.091s
+user	0m0.081s
+sys	0m0.010s
+
+
+
+Wersja lib dla plików 1KB, 4100KB, 36000KB, ze znakami dla plikow kolejno g, e i l
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.000s
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.010s
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.011s
+
+real	0m0.090s
+user	0m0.080s
+sys	0m0.010s
+
+real	0m0.089s
+user	0m0.089s
+sys	0m0.000s
+
+real	0m0.090s
+user	0m0.080s
+sys	0m0.010s

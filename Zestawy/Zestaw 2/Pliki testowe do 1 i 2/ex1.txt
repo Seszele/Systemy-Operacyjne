@@ -1,0 +1,11 @@
+to jest test
+              
+z
+przerwami      
+                     
+i
+                     
+z whitespace
+
+
+czasami

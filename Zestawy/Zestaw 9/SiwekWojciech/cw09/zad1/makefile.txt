@@ -1,0 +1,10 @@
+cc = gcc -Wall
+
+all: main
+
+main: main.o main.c
+		$(cc) -c main.c -lpthread
+		$(cc) main.o -o main -lpthread
+
+clean:
+		rm -f *.o main
